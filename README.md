@@ -8,7 +8,7 @@ I'm Yam, a data enthusiast from Israel.
 - 🔭 I’m currently working on a Social Network Analysis Project.
 
 #### ⚙️ Tech Stack:
-- 💡 Python, SQL, Julia, HTML.
+- 💡 Python, Julia, SQL, HTML.
 
 #### ⚡ Fun fact: 
 - 🎹 I'm a Jazz Pianist.

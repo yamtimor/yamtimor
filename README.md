@@ -8,7 +8,7 @@ I'm Yam, a data enthusiast from Israel.
 - 🔭 I’m currently working on a Data Insight Generator project in Java.
 
 #### ⚙️ Tech Stack:
-- 💡 Python, SQL, HTML, .
+- 💡 Python, SQL, HTML.
 
 #### ⚡ Fun fact: 
 - 🎹 I'm a Jazz Pianist.

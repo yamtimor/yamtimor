@@ -9,6 +9,7 @@ I'm Yam, a data enthusiast from Israel.
 
 #### ⚙️ Tech Stack:
 - 💡 Python, SQL, HTML.
+- 🔎 Familiar with: Java, Julia, CSS, JavaScript
 
 #### ⚡ Fun fact: 
 - 🎹 I'm a Jazz Pianist.

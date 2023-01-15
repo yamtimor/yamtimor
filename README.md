@@ -8,8 +8,8 @@ I'm Yam, a data enthusiast from Israel.
 - 🔭 I’m currently working on creating a dashboard based on Uk Electricity data.
 
 #### ⚙️ Tech Stack:
-- 💡 Python, SQL, HTML, Flask, Docker
-- 🔎 Familiar with: Java, Julia, CSS, JavaScript
+- 💡 Python, SQL, HTML
+- 🔎 Familiar with: Java, Julia, CSS, JavaScript, Flask, Docker
 
 #### ⚡ Fun fact: 
 - 🎹 I'm a Jazz Pianist.

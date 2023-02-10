@@ -4,7 +4,7 @@ I'm Yam, a data enthusiast from Israel.
 #### ✨ About Me:
 
 - 📊 I’m currently working as Data Analyst at Meidata.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Streamlit.
 - 🔭 I’m currently working on creating a dashboard based on Uk Electricity data.
 
 #### ⚙️ Tech Stack:

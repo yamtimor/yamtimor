@@ -3,7 +3,7 @@ I'm Yam, a data enthusiast from Israel.
 
 #### ✨ About Me:
 
-- 📊 I’m currently working as Data Analyst at Meidata.
+- 📊 I’m currently looking for a job as Data Analyst
 - 🌱 I’m currently learning Streamlit.
 
 #### ⚙️ Tech Stack:

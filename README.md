@@ -7,7 +7,7 @@ I'm Yam, a data enthusiast from Israel.
 - 🌱 I’m currently learning Streamlit.
 
 #### ⚙️ Tech Stack:
-- 💡 Python, SQL, HTML
+- 💡 Python, SQL, HTML, DBT
 - 🔎 Familiar with: Java, Julia, CSS, JavaScript, Flask, Docker
 
 #### ⚡ Fun fact: 

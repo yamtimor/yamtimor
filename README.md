@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm Yam, a Data Engineer and Jazz Pianist from Israel.
+I'm Yam, a Data Enthusiast from Israel.
 
 #### ⚙️ Tech Stack:
-- 💡 Python, SQL, HTML, DBT, Docker
+- 💡 Python, Java, SQL
 
 #### 🙌🏻 Connect with Me:
 - 📫[LinkedIn](https://www.linkedin.com/in/yam-timor/)

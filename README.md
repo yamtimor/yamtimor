@@ -8,6 +8,7 @@ I'm Yam, a Data Science and Software Engineering Enthusiast from Israel.
 - ELK
 - Docker
 - DBT
+- Flask
 
 #### 🙌🏻 Connect with Me:
 - 📫 [LinkedIn](https://www.linkedin.com/in/yam-timor/)

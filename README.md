@@ -1,11 +1,12 @@
 ### Hi there 👋
-I'm Yam, a Data Science and Software Engineering Enthusiast from Israel.
+I'm Yam, a Data Engineer from Israel.
 
 #### ⚙️ My Tech Stack Includes:
 - Python
 - Java
 - SQL
 - ELK
+- MongoDB
 - Docker
 - DBT
 - Flask

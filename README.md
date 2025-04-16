@@ -8,7 +8,7 @@ I've been playing piano for nearly two decades, with over a decade immersed in j
 
 I bring that same mindset to engineering. I enjoy designing **data-intensive systems** that are expressive, reliable, and thoughtfully constructed — the kind of systems that *just make sense* when you read the code.
 
-Right now, I’m building **[BirdLane](https://github.com/YOUR_REPO/BirdLane)** — a Kotlin-based data orchestration system inspired by jazz. It’s an attempt to bring flexibility and clarity into data workflows by blending structure with flow.
+Right now, I’m building **[BirdLane](https://github.com/yamtimor/BirdLane)** — a Kotlin-based data orchestration system inspired by jazz. It’s an attempt to bring flexibility and clarity into data workflows by blending structure with flow.
 
 ## ⚙️ My Current Stack
 

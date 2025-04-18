@@ -4,11 +4,11 @@ I’m a Data Engineer and Jazz Pianist from Israel, exploring the intersection b
 
 ## 🎹 From Jazz to Data Pipelines
 
-I've been playing piano for nearly two decades, with over a decade immersed in jazz. That shaped how I think: listen deeply, build intentionally, leave space when it matters.
+I’ve been playing piano for almost 20 years, with a strong background in jazz. That experience trained me to think in systems — to listen, adapt, and solve creatively.
 
-I bring that same mindset to engineering. I enjoy designing **data-intensive systems** that are expressive, reliable, and thoughtfully constructed — the kind of systems that *just make sense* when you read the code.
+In engineering, I bring the same mindset: I focus on designing data-driven systems that are clean, reliable, and easy to reason about. I care about clarity in architecture and expressiveness in code.
 
-Right now, I’m building **[BirdLane](https://github.com/yamtimor/BirdLane)** — a Kotlin-based data orchestration system inspired by jazz. It’s an attempt to bring flexibility and clarity into data workflows by blending structure with flow.
+Right now, I’m building **[BirdLane](https://github.com/yamtimor/BirdLane)** — a Kotlin-based data orchestration tool that combines flexibility with structure, inspired by how music flows.
 
 ## ⚙️ My Current Stack
 

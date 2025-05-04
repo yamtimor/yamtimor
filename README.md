@@ -1,34 +1,34 @@
 # Hey, I'm Yam 👋
 
-I’m a Data Engineer and Jazz Pianist from Israel, exploring the intersection between structure and creativity — both in music and in code.
+I'm a Backend & Data Engineer based in Israel — building high-quality tools for modern data workflows.
 
-## 🎹 From Jazz to Data Pipelines
+With 5+ years of experience across data engineering, backend development, and analytics, I focus on creating clean, scalable systems that solve real problems. I care deeply about developer experience, architecture clarity, and writing code that reflects intent.
 
-I’ve been playing piano for almost 20 years, with a strong background in jazz. That experience trained me to think in systems — to listen, adapt, and solve creatively.
+## 🚀 What I'm Working On
 
-In engineering, I bring the same mindset: I focus on designing data-driven systems that are clean, reliable, and easy to reason about. I care about clarity in architecture and expressiveness in code.
+Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) — a Kotlin-based data orchestration tool that takes inspiration from music: expressive, composable, and structured. Think Airflow meets jazz.
 
-Right now, I’m building **[BirdLane](https://github.com/yamtimor/BirdLane)** — a Kotlin-based data orchestration tool that combines flexibility with structure, inspired by how music flows.
+## ⚙️ Tech Stack
 
-## ⚙️ My Current Stack
-
-- **Languages:** Kotlin, Python, Java, SQL, JavaScript  
-- **Backend Frameworks:** FastAPI, Flask  
-- **Big Data & Databases:** Kafka, Spark, PostgreSQL, Redshift, MongoDB, Elasticsearch, DuckDB, Redis, S3  
+- **Languages:** Kotlin, Python, Java, SQL  
+- **Frameworks:** FastAPI, Flask  
+- **Data & Infra:** Kafka, Spark, PostgreSQL, Redis, MongoDB, DuckDB, S3  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  
-- **Data Tools & Analytics:** Pandas, Power BI  
+- **Tools:** Pandas, Power BI  
 
-## 🛠️ What I’m Into
+## 🎯 What Drives Me
 
-- Building backend-heavy tools with a strong developer experience  
-- Real-time, distributed data systems  
-- Writing clean, idiomatic code that reflects its purpose  
-- Learning deeply and building in public  
+- Building developer-first tooling in backend and data systems  
+- Designing real-time, distributed architecture with clarity  
+- Writing elegant, idiomatic Kotlin and Python  
+- Exploring the potential of **Kotlin as a serious language for Data Engineering**  
+- Sharing ideas and progress in public — to help and to grow  
 
-## 🎯 Why I Build
+## ✨ A Bit Extra
 
-I want to create tools that help developers get into flow — the same way great musicians do.
+Outside of code, I’m a professional jazz pianist — 20 years at the keys.  
+I bring the same mindset to engineering: fluidity, structure, and expression.
 
-## 🤝 Let’s Connect
+## 🤝 Connect
 
 - 📫 [LinkedIn](https://www.linkedin.com/in/yam-timor/)

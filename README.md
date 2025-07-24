@@ -16,14 +16,6 @@ Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) —
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  
 - **Tools:** Pandas, Power BI  
 
-## 🎯 What Drives Me
-
-- Building developer-first tooling in backend and data systems  
-- Designing real-time, distributed architecture with clarity  
-- Writing elegant, idiomatic Kotlin and Python  
-- Exploring the potential of **Kotlin as a serious language for Data Engineering**  
-- Sharing ideas and progress in public — to help and to grow  
-
 ## ✨ A Bit Extra
 
 Outside of code, I’m a professional jazz pianist — 20 years at the keys.  

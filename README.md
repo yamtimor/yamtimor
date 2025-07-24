@@ -1,6 +1,6 @@
 # Hey, I'm Yam 👋
 
-I'm a Backend & Data Engineer based in Israel — building high-quality tools for modern data workflows.
+I'm a Data Engineer from Israel.
 
 With 5+ years of experience across data engineering, backend development, and analytics, I focus on creating clean, scalable systems that solve real problems. I care deeply about developer experience, architecture clarity, and writing code that reflects intent.
 

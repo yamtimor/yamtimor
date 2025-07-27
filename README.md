@@ -12,7 +12,7 @@ Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) —
 
 - **Languages:** Kotlin, Python, Java, SQL  
 - **Frameworks:** FastAPI, Flask  
-- **Data & Infra:** Kafka, Spark, PostgreSQL, Redis, MongoDB, DuckDB, S3  
+- **Data & Infra:** Kafka, Spark, PostgreSQL, Redis, MongoDB, Elasticsearch, DuckDB, S3  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  
 - **Tools:** Pandas, Power BI  
 

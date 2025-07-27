@@ -18,7 +18,7 @@ Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) —
 
 ## ✨ A Bit Extra
 
-Outside of code, I’m a professional jazz pianist — 20 years at the keys.  
+Outside of code, I’m a professional jazz pianist.  
 I bring the same mindset to engineering: fluidity, structure, and expression.
 
 ## 🤝 Connect

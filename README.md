@@ -10,7 +10,7 @@ Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) —
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python, Kotlin, Java, SQL  
+- **Languages:** Python, Java, Kotlin, SQL  
 - **Frameworks:** FastAPI, Flask  
 - **Data & Infra:** Kafka, Spark, PostgreSQL, Redis, MongoDB, Elasticsearch, DuckDB, S3  
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  

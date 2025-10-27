@@ -2,17 +2,14 @@
 
 I'm a Data Engineer from Israel.
 
-With 5+ years of experience across data engineering, backend development, and analytics, I focus on creating clean, scalable systems that solve real problems. I care deeply about developer experience, architecture clarity, and writing code that reflects intent.
+With 6+ years of experience across data engineering, backend development, and analytics, I focus on creating clean, scalable systems that solve real problems. I care deeply about developer experience, architecture clarity, and writing code that reflects intent.
 
-## 🚀 What I'm Working On
-
-Right now, I'm building [**BirdLane**](https://github.com/yamtimor/BirdLane) — a Kotlin-based data orchestration tool that takes inspiration from music: expressive, composable, and structured. Think Airflow meets jazz.
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python, Java, Kotlin, SQL  
+- **Languages:** Python, TypeScripts, Java, Kotlin, SQL  
 - **Frameworks:** FastAPI, Flask  
-- **Data & Infra:** Kafka, Spark, PostgreSQL, Redis, MongoDB, Elasticsearch, DuckDB, S3  
+- **Data & Infra:** PostgreSQL, Redis, MongoDB, Elasticsearch, DuckDB 
 - **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  
 - **Tools:** Pandas, Power BI  
 

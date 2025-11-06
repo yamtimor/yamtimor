@@ -15,7 +15,7 @@ With 6+ years of experience across data engineering, backend development, and an
 
 ## ✨ A Bit Extra
 
-Outside of code, I’m a professional jazz pianist.  
+Outside of code, I’m a jazz pianist.  
 I bring the same mindset to engineering: fluidity, structure, and expression.
 
 ## 🤝 Connect

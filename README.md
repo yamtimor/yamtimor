@@ -1,23 +1,11 @@
 # Hey, I'm Yam 👋
 
-I'm a Data Engineer from Israel.
+I'm an AI Engineer focused on building reasoning-driven systems, data architectures, and backend foundations that scale.
 
-With 6+ years of experience across data engineering, backend development, and analytics, I focus on creating clean, scalable systems that solve real problems. I care deeply about developer experience, architecture clarity, and writing code that reflects intent.
+I come from a strong background in data engineering, backend development, and analytics — giving me a hybrid edge when working on AI infrastructure and research-engineering projects.
 
+## 🎷 Beyond Code
+I'm also a jazz pianist — I bring the same mix of structure and improvisation to engineering.
 
-## ⚙️ Tech Stack
-
-- **Languages:** Python, TypeScripts, Java, Kotlin, SQL  
-- **Frameworks:** FastAPI, Flask  
-- **Data & Infra:** PostgreSQL, Redis, MongoDB, Elasticsearch, DuckDB 
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Git, Prometheus, Grafana  
-- **Tools:** Pandas, Power BI  
-
-## ✨ A Bit Extra
-
-Outside of code, I’m a jazz pianist.  
-I bring the same mindset to engineering: fluidity, structure, and expression.
-
-## 🤝 Connect
-
-- 📫 [LinkedIn](https://www.linkedin.com/in/yam-timor/)
+## 🔗 Connect
+📫 [LinkedIn](https://www.linkedin.com/in/yam-timor/)

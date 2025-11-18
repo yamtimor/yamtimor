@@ -1,13 +1,24 @@
-# Hey, I'm Yam 👋
+# 👋 Hey, I'm Yam
 
-I'm an AI Engineer focused on building reasoning-driven systems, data architectures, and backend foundations that scale.
+I work on **AI systems** - agents, retrieval, and graph-based reasoning.  
+I focus on building small, practical tools that explore how these systems behave in real-world use cases.
+I use GitHub as a place to test ideas, ship fast iterations, and learn in public.
 
-I come from a strong background in data engineering, backend development, and analytics — giving me a hybrid edge when working on AI infrastructure and research-engineering projects.
+---
 
-I'm currently working on [wsb-sentiment-agent](https://github.com/yamtimor/wsb-sentiment-agent)
+## 🧩 Background
+1. **AI Engineering** - agent workflows, retrieval, graph-structured reasoning  
+2. **Data & Backend Engineering** - pipelines, APIs, and systems in Python/Kotlin  
+3. **Jazz & Investing** - I have a serious background in both fields and often build tools that draw on them as real-world domains
 
-## Beyond Code
-I'm also a jazz pianist — I bring the same mix of structure and improvisation to engineering.
+---
 
-## 🔗 Connect
-📫 [LinkedIn](https://www.linkedin.com/in/yam-timor/)
+## 🔧 Current Projects
+- **WSB-Sentiment-Agent** - LLM-powered sentiment extraction  
+- **Mental-Model-Mapper** — RAG based subjects mapper with analogies.
+
+
+---
+
+## 📬 Contact
+If you're exploring AI engineering, agent systems, or graph-based approaches, feel free to reach out.

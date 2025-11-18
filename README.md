@@ -9,12 +9,10 @@ I use GitHub as a place to test ideas, ship fast iterations, and learn in public
 2. **Data & Backend Engineering** - pipelines, APIs, and systems in Python/Kotlin  
 3. **Jazz & Investing** - I have a serious background in both fields and often build tools that draw on them as real-world domains
 
-
 ## 🔧 Current Projects
 - **WSB-Sentiment-Agent** - LLM-powered sentiment extraction  
 - **Mental-Model-Mapper** — RAG based subjects mapper with analogies.
 
----
 
 ## 📬 Contact
 If you're exploring AI engineering, agent systems, or graph-based approaches, feel free to reach out.

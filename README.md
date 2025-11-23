@@ -11,8 +11,8 @@ I use GitHub as a place to test ideas, ship fast iterations, and learn in public
 
 ## 🔧 Current Projects
 - **WSB-Sentiment-Agent** - LLM-powered sentiment extraction  
-- **Mental-Model-Mapper** — RAG based subjects mapper with analogies.
-
+- **Jazz-SNA-Agent** — A jazz-inspired Social Network Analysis agent that maps the deep structure of jazz history: nodes = musicians, edges = collaborations, filters = years/events — revealing hidden hubs & movements
+- **BirdLane** - Soon...
 
 ## 📬 Contact
 If you're exploring AI engineering, agent systems, or graph-based approaches, feel free to reach out.

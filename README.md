@@ -10,8 +10,8 @@ I use GitHub as a place to test ideas, ship fast iterations, and learn in public
 3. **Jazz & Investing** - I have a serious background in both fields and often build tools that draw on them as real-world domains
 
 ## 🔧 Current Projects
-- **WSB-Sentiment-Agent** - LLM-powered sentiment extraction  
-- **Jazz-SNA-Agent** — A jazz-inspired Social Network Analysis agent that maps the deep structure of jazz history: nodes = musicians, edges = collaborations, filters = years/events — revealing hidden hubs & movements
+- **wsb-sentiment-agent** - LLM-powered sentiment extraction  
+- **jazz-sna-agent** — A jazz-inspired Social Network Analysis agent that maps the deep structure of jazz history: nodes = musicians, edges = collaborations, filters = years/events — revealing hidden hubs & movements
 - **BirdLane** - Soon...
 
 ## 📬 Contact

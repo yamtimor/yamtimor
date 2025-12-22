@@ -1,18 +1,23 @@
-# 👋 Hey, I'm Yam
+# Yam
 
-I work on **AI systems** - agents, retrieval, and graph-based reasoning.  
-I focus on building small, practical tools that explore how these systems behave in real-world use cases.
-I use GitHub as a place to test ideas, ship fast iterations, and learn in public.
+I build **intelligent systems** that are agentic, graph-structured, and data-driven.
 
-## 🧩 Background
-1. **AI Engineering** - agent workflows, retrieval, graph-structured reasoning  
-2. **Data & Backend Engineering** - pipelines, APIs, and systems in Python/Kotlin  
-3. **Jazz & Investing** - I have a serious background in both fields and often build tools that draw on them as real-world domains
+My work focuses on **how systems reason**:
+- agents as graphs  
+- signals as relationships  
+- intelligence as structure, not prompts  
 
-## 🔧 Current Projects
-- **wsb-sentiment-agent** - LLM-powered sentiment extraction  
-- **jazz-graph-agent** — A jazz-inspired Social Network Analysis agent that maps the deep structure of jazz history: nodes = musicians, edges = collaborations, filters = years/events — revealing hidden hubs & movements
-- **BirdLane** - Soon...
+GitHub is where I turn mental models into systems.
 
-## 📬 Contact
-If you're exploring AI engineering, agent systems, or graph-based approaches, feel free to reach out.
+## Approach
+My perspective is shaped by two real-world domains:
+- **Jazz**: real-time improvisation, constraint-based creativity, non-linear structure  
+- **Markets**: signal extraction, second-order effects, decision-making under uncertainty  
+
+I care less about models and more about **how intelligence behaves inside systems**.  
+I enjoy building with people who bring different perspectives.
+
+## Focus
+- Agent systems & orchestration  
+- Graph-based reasoning  
+- Data & backend systems (Python, Kotlin)
